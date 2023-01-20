@@ -1,2 +1,2 @@
 # Mission1
-For Mission 1 of AER E 361
+Repository for testing features in accordance with Mission 1 of AER E 361
